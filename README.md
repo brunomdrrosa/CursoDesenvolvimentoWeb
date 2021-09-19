@@ -90,4 +90,3 @@ EM BREVE 🚧
 <div align="center">
 <a href="https://linkedin.com/in/bruno-machado-da-rosa/" target="_blank"><img src="https://img.shields.io/badge/Bruno Machado da Rosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 <a href="mailto:brunomdr46@gmail.com" target="_blank"><img src="https://img.shields.io/badge/brunomdr46@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
-</div># CursoDesenvolvimentoWeb
