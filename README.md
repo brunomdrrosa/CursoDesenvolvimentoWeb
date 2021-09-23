@@ -65,10 +65,20 @@ Web Design no Canva 🖌️
 </p>
 
 <h2 align="center">
-EM BREVE 🚧
+Dado Virtual 🎲
 </h2>
 <h4 align="center">
 • JavaScript •
+</h4>
+<p align="center">
+  <a href="dadovirtual.netlify.app"><img src="https://i.imgur.com/9mobDFC.png"></a>
+</p>
+
+<h2 align="center">
+Bateria Virtual 🥁
+</h2>
+<h4 align="center">
+EM BREVE 🚧
 </h4>
 <p align="center"></p>
 
