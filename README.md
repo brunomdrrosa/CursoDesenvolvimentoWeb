@@ -78,9 +78,21 @@ Dado Virtual 🎲
 Bateria Virtual 🥁
 </h2>
 <h4 align="center">
-EM BREVE 🚧
+• JavaScript •
 </h4>
-<p align="center"></p>
+<p align="center">
+  <a href="https://virtualbateria.netlify.app/"><img src="https://i.imgur.com/eyEeTXt.png"></a>
+</p>
+
+<h2 align="center">
+Genius 🟩🟥🟨🟦
+</h2>
+<h4 align="center">
+• jQuery •
+</h4>
+<p align="center">
+  <a href="https://jogogenius.netlify.app/"><img src="https://i.imgur.com/DOAmTYO.png"></a>
+</p>
 
 ---
 
