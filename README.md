@@ -94,6 +94,16 @@ Genius 🟩🟥🟨🟦
   <a href="https://jogogenius.netlify.app/"><img src="https://i.imgur.com/DOAmTYO.png"></a>
 </p>
 
+<h2 align="center">
+Calculadora de IMC 🏋🏽
+</h2>
+<h4 align="center">
+• Node.js • Express.js •
+</h4>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/blob/main/Express.js/Calculadora/calculadora.js"><img src="https://i.imgur.com/VhdXGb9.png"></a>
+</p>
+
 ---
 
 ## 🎓 Certificado
