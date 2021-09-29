@@ -104,6 +104,16 @@ Calculadora de IMC 🏋🏽
   <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/blob/main/Express.js/Calculadora/calculadora.js"><img src="https://i.imgur.com/VhdXGb9.png"></a>
 </p>
 
+<h2 align="center">
+Newsletter 📰
+</h2>
+<h4 align="center">
+• API • Heroku •
+</h4>
+<p align="center">
+  <a href="https://salty-caverns-84755.herokuapp.com/"><img src="https://i.imgur.com/Bqw8IBs.png"></a>
+</p>
+
 ---
 
 ## 🎓 Certificado
