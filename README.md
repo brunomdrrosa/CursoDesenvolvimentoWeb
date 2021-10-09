@@ -114,6 +114,23 @@ Newsletter 📰
   <a href="https://salty-caverns-84755.herokuapp.com/"><img src="https://i.imgur.com/Bqw8IBs.png"></a>
 </p>
 
+<h2 align="center">
+Lista de Tarefas
+</h2>
+<h4 align="center">
+• EJS •
+</h4>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/ToDoListV1"><img src="https://i.imgur.com/YcbfI54.png"></a>
+</p>
+
+<h2 align="center">
+Blog utilizando Express.js
+</h2>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Blog-EJS"><img src="https://i.imgur.com/e7uzRdM.png"></a>
+</p>
+
 ---
 
 ## 🎓 Certificado
