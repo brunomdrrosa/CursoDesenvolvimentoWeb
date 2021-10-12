@@ -125,10 +125,17 @@ Lista de Tarefas
 </p>
 
 <h2 align="center">
-Blog utilizando Express.js
+Blog utilizando MongoDB
 </h2>
 <p align="center">
-  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Blog-EJS"><img src="https://i.imgur.com/e7uzRdM.png"></a>
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Blog-Database"><img src="https://i.imgur.com/e7uzRdM.png"></a>
+</p>
+
+<h2 align="center">
+Lista de Tarefas utilizando MongoDB
+</h2>
+<p align="center">
+  <a href="https://aqueous-stream-04783.herokuapp.com/"><img src="https://i.imgur.com/CUFN6dZ.png"></a>
 </p>
 
 ---
