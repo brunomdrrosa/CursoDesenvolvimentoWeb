@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center"> 
-O Bootcamp Completo para Desenvolvimento Web 2021 🌐 Em andamento ⚠️ 
+O Bootcamp Completo para Desenvolvimento Web 2021 🌐 Concluído ✅
 </h4>
 
 <p align="center">
@@ -115,7 +115,7 @@ Newsletter 📰
 </p>
 
 <h2 align="center">
-Lista de Tarefas
+Lista de Tarefas 📝
 </h2>
 <h4 align="center">
 • EJS •
@@ -125,24 +125,48 @@ Lista de Tarefas
 </p>
 
 <h2 align="center">
-Blog utilizando MongoDB
+Blog utilizando MongoDB 📰
 </h2>
 <p align="center">
   <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Blog-Database"><img src="https://i.imgur.com/e7uzRdM.png"></a>
 </p>
 
 <h2 align="center">
-Lista de Tarefas utilizando MongoDB
+Lista de Tarefas utilizando MongoDB 📝
 </h2>
 <p align="center">
   <a href="https://aqueous-stream-04783.herokuapp.com/"><img src="https://i.imgur.com/CUFN6dZ.png"></a>
+</p>
+
+<h2 align="center">
+Contador utilizando React ⌛
+</h2>
+<h4 align="center">
+• React •
+</h4>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Contador"><img src="https://i.imgur.com/Fen3kxG.png"></a>
+</p>
+
+<h2 align="center">
+Enciclopédia de Emojis 📙😃
+</h2>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Emojipedia"><img src="https://i.imgur.com/wjXA4EQ.png"></a>
+</p>
+
+<h2 align="center">
+App para realizar Notas 📝
+</h2>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/CursoDesenvolvimentoWeb/tree/main/Notas"><img src="https://i.imgur.com/mAyGqHV.png"></a>
 </p>
 
 ---
 
 ## 🎓 Certificado
 
-<h2 align="center">EM BREVE 🚧</h2>
+<a href="https://www.udemy.com/certificate/UC-1ed824b7-6ad6-41d4-97a0-b78ff4fb60df/"><img src="https://i.imgur.com/jhkhYaP.jpg"></a>
 
 ---
 
